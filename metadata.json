@@ -1,0 +1,6 @@
+{
+  "name": "LozAI",
+  "description": "Plataforma mobile de soporte técnico informático asistido por inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
